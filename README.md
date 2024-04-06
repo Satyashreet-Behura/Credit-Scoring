@@ -1,6 +1,6 @@
 # Credit-Scoring using Logistic Regression
 
-As a data science intern at ID/X Partners (Virtual Internship Program), I was assigned to make a credit risk analysis from lending company. My objective here is to make a good prediction model that can clasify whether borrowers are good or not.
+I  have made a credit risk analysis from lending company. My objective here is to make a good prediction model that can clasify whether borrowers are good or not.
 
 I used logistic regression as a model to predict credit risk and implemented weight evidence & information values to perfrom feature selection
 
